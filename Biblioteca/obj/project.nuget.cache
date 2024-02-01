@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JIzLX/rNx/bFoef9KiYp+F4ZEOVwCBaGTLsdOfzOm5vCK1kdIfzWQ4alsZKuA/6wH1jBH/4NmBQcD0uNztbkzQ==",
+  "dgSpecHash": "tJyXKIYdmq5P7nC22cMdIJ7RFAWYZGplEtYeSGpHmiAiic+rTzYxzaidvjGOY+CCqwU2L2wJ78o0UK8DXzIbtA==",
   "success": true,
-  "projectFilePath": "C:\\Programs\\CSHARP\\IEFP\\10792\\Tarefa\\Biblioteca\\Biblioteca.csproj",
+  "projectFilePath": "C:\\Programs\\GitHub\\IEFP\\IEFP_CSHARP\\Biblioteca\\Biblioteca.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alan\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\alan\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

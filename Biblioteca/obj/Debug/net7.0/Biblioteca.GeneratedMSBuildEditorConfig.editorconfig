@@ -9,57 +9,59 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Biblioteca
 build_property.RootNamespace = Biblioteca
-build_property.ProjectDir = C:\Programs\CSHARP\IEFP\10792\Tarefa\Biblioteca\
+build_property.ProjectDir = C:\Programs\GitHub\IEFP\IEFP_CSHARP\Biblioteca\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Programs\CSHARP\IEFP\10792\Tarefa\Biblioteca
+build_property.MSBuildProjectDirectory = C:\Programs\GitHub\IEFP\IEFP_CSHARP\Biblioteca
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Programs/CSHARP/IEFP/10792/Tarefa/Biblioteca/Views/Categorias/Create.cshtml]
+[C:/Programs/GitHub/IEFP/IEFP_CSHARP/Biblioteca/Views/Categorias/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Programs/CSHARP/IEFP/10792/Tarefa/Biblioteca/Views/Categorias/Delete.cshtml]
+[C:/Programs/GitHub/IEFP/IEFP_CSHARP/Biblioteca/Views/Categorias/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Programs/CSHARP/IEFP/10792/Tarefa/Biblioteca/Views/Categorias/Edit.cshtml]
+[C:/Programs/GitHub/IEFP/IEFP_CSHARP/Biblioteca/Views/Categorias/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Programs/CSHARP/IEFP/10792/Tarefa/Biblioteca/Views/Categorias/Index.cshtml]
+[C:/Programs/GitHub/IEFP/IEFP_CSHARP/Biblioteca/Views/Categorias/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Programs/CSHARP/IEFP/10792/Tarefa/Biblioteca/Views/Home/Index.cshtml]
+[C:/Programs/GitHub/IEFP/IEFP_CSHARP/Biblioteca/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Programs/CSHARP/IEFP/10792/Tarefa/Biblioteca/Views/Home/Inicio.cshtml]
+[C:/Programs/GitHub/IEFP/IEFP_CSHARP/Biblioteca/Views/Home/Inicio.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmljaW8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Programs/CSHARP/IEFP/10792/Tarefa/Biblioteca/Views/Home/Privacy.cshtml]
+[C:/Programs/GitHub/IEFP/IEFP_CSHARP/Biblioteca/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Programs/CSHARP/IEFP/10792/Tarefa/Biblioteca/Views/Shared/Error.cshtml]
+[C:/Programs/GitHub/IEFP/IEFP_CSHARP/Biblioteca/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Programs/CSHARP/IEFP/10792/Tarefa/Biblioteca/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Programs/GitHub/IEFP/IEFP_CSHARP/Biblioteca/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Programs/CSHARP/IEFP/10792/Tarefa/Biblioteca/Views/_ViewImports.cshtml]
+[C:/Programs/GitHub/IEFP/IEFP_CSHARP/Biblioteca/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Programs/CSHARP/IEFP/10792/Tarefa/Biblioteca/Views/_ViewStart.cshtml]
+[C:/Programs/GitHub/IEFP/IEFP_CSHARP/Biblioteca/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Programs/CSHARP/IEFP/10792/Tarefa/Biblioteca/Views/Shared/_Layout.cshtml]
+[C:/Programs/GitHub/IEFP/IEFP_CSHARP/Biblioteca/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-bunr9m1pqn
